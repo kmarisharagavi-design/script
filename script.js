@@ -13,7 +13,7 @@ function validateLogin(username, password) {
 // Intentional syntax error below
 function calculateTotal(a, b) {
     let total = a + b
-    console.log("Total: " + total
+    console.log("Total: " + total))
 }
 
 validateLogin("admin", "12345");
